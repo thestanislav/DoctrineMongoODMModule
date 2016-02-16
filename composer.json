@@ -38,7 +38,7 @@
         }
     ],
     "require": {
-        "php": ">=5.4",
+        "php": ">=7",
         "doctrine/doctrine-module": "~1.0",
         "wizkunde/mongodb-odm": "~1.0",
         "zendframework/zend-mvc": "2.*",
