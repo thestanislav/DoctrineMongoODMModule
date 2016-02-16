@@ -40,7 +40,7 @@
     "require": {
         "php": ">=7",
         "doctrine/doctrine-module": "~1.0",
-        "wizkunde/mongodb-odm": "~1.0",
+        "wizkunde/mongodb-odm": "dev-master",
         "zendframework/zend-mvc": "2.*",
         "zendframework/zend-servicemanager": "2.*",
         "zendframework/zend-stdlib": "2.*"
